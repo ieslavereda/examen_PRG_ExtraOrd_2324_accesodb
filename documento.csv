@@ -1,0 +1,11 @@
+ID;Nombre;Apellidos;DNI;Edad;Mail;Experiencia;ITRole;Departamento
+1;Pedro;Lopez Sanz;98734527F;33;plopez@informatica.es;10;BackEnd;
+2;Marta;Martinez Gonzalez;11142455X;22;mmartinez@informatica.es;2;FrontEnd;
+3;Carlota;Martinez Ramos;67453398D;52;cmartinez@informatica.es;30;;Board
+4;Carmen;Garcia Lujan;11422358I;23;cgarcia@informatica.es;2;;RRHH
+5;Emma;Hueso Ramos;433829873F;36;ehueso@informatica.es;12;BackEnd;
+6;Lorena;Tarrega Navarro;14323451W;19;ltarrega@informatica.es;1;FullStack;
+7;Ramon;Anton Navarro;22344213D;29;ranton@informatica.es;7;FullStack;
+8;Jorge;Martinez Lopez;12325216V;64;jmartinez@informatica.es;40;;RRHH
+9;Sergio;Romero Jimenez;11251266E;31;sromero@informatica.es;10;FrontEnd;
+10;Roberto;Jimenez Navarro;19399794X;20;rjimenez@informatica.es;1;FrontEnd;
